@@ -9,14 +9,10 @@ Welcome to my very first end-to-end data project! This repository demonstrates a
 
 1. 🚀 Clone the Repository
 2. 🧪 Create a Virtual Environment
-
-```python -m venv env```
+    - ```python -m venv env```
 3. ✅ Activate the Virtual Environment
-
-```source env/Scripts/activate```
+    - ```source env/Scripts/activate```
 4. 📦 Install Required Dependencies
-
-```pip install -r requirements.txt```
+    - ```pip install -r requirements.txt```
 5. ❌ Deactivate the Virtual Environment
-
-```deactivate```
+    - ```deactivate```
